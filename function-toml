@@ -1,4 +1,5 @@
 [function]
 name = "verify-3ds"
 description = "Function for 3DS verification"
-runtime = "node18"
+runtime = "nodejs18"  # Fixed runtime
+version = "1.0.0"     # Added version
