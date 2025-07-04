@@ -1,0 +1,4 @@
+[function]
+name = "verify-3ds"
+description = "Function for 3DS verification"
+runtime = "node18"
