@@ -1,9 +1,0 @@
-{
-  "name": "verify-3ds",
-  "version": "1.0.0",
-  "description": "Evervault function for 3DS verification",
-  "main": "index.js",
-  "dependencies": {
-    "@evervault/sdk": "^3.0.0"
-  }
-}
